@@ -11,10 +11,10 @@
 
 ## 2.- Fundamentos básicos de la programación (32h)
 
-- [ ] 1.- Introducción. Salida de datos por pantalla (printf, colorear, Unicode)
-- [ ] 2.- Variables e identificadores. Tipos de datos
-- [ ] 3.- `var`, `char` y `boolean`. Depuración y herramientas. Tipos referenciados
-- [ ] 4.- Lectura de datos desde teclado (Scanner)
+- [X] 1.- Introducción. Salida de datos por pantalla (printf, colorear, Unicode)
+- [X] 2.- Variables e identificadores. Tipos de datos
+- [X] 3.- `var`, `char` y `boolean`. Depuración y herramientas. Tipos referenciados
+- [X] 4.- Lectura de datos desde teclado (Scanner)
 - [ ] 5.- Operadores y expresiones: aritméticos, relacionales y lógicos
 - [ ] 6.- Operador ternario. Trabajo con cadenas (String)
 - [ ] 7.- Conversión de tipo (cast). Comentarios
